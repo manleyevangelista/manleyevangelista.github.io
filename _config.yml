@@ -1,16 +1,2 @@
-title: My Minimal Mistakes Site
-description: Built entirely on GitHub!
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
-
-# Optional: Navigation menu
-header:
-  pages:
-    - title: "Home"
-      url: /
-    - title: "About"
-      url: /about/
-
-# Optional but recommended
-minimal_mistakes_skin: "default"
+title: Manley Evangelista
+theme: jekyll-theme-midnight

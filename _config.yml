@@ -1,1 +1,5 @@
-theme: jekyll-theme-midnight
+title: Manley Evangelista
+description:
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
